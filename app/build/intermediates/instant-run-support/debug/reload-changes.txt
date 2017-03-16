@@ -1,0 +1,5 @@
+CHANGED,E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\amazon\alexa\avs\companion\CompanionProvisioningInfo$override.class
+CHANGED,E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\amazon\alexa\avs\companion\ProvisioningClient$override.class
+CHANGED,E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\amazon\alexa\avs\companion\AuthConstants$override.class
+CHANGED,E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\amazon\alexa\avs\companion\DeviceProvisioningInfo$override.class

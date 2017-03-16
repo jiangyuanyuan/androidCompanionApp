@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\src\debug\shaders"/></dataSet></merger>

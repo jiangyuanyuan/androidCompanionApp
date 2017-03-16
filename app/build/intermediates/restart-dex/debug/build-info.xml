@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="9934774130149"
+    verifier="FIELD_TYPE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="320" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="64" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+
+    <build timestamp="4465834153363" >
+        <artifact
+            location="E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="9934774130149"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="E:\amazon\alexa-avs-sample-app-master\samples\androidCompanionApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
